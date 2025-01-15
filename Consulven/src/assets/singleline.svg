@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 687.23 305.34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+        opacity: .95;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-525.64" y1="716.5" x2="-203.97" y2="1171.45" gradientTransform="translate(971.85 -610.04) rotate(16.15)" gradientUnits="userSpaceOnUse">
+      <stop offset=".31" stop-color="#34a853"/>
+      <stop offset=".36" stop-color="#33a551"/>
+      <stop offset=".39" stop-color="#309d4d"/>
+      <stop offset=".42" stop-color="#2c8f46"/>
+      <stop offset=".45" stop-color="#267b3c"/>
+      <stop offset=".47" stop-color="#1e6130"/>
+      <stop offset=".49" stop-color="#144120"/>
+      <stop offset=".5" stop-color="#081c0e"/>
+      <stop offset=".52" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1562.57" y1="260.13" x2="1762.01" y2="263.27" gradientTransform="translate(-1550.9 -183.06) scale(1.16 1.28)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#027803"/>
+      <stop offset=".29" stop-color="#027503"/>
+      <stop offset=".46" stop-color="#036d05"/>
+      <stop offset=".59" stop-color="#065f09"/>
+      <stop offset=".71" stop-color="#094b0f"/>
+      <stop offset=".82" stop-color="#0d3115"/>
+      <stop offset=".83" stop-color="#0e2e17"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g>
+      <polygon class="cls-2" points="0 292.52 682.75 0 687.23 10.02 7.06 305.34 0 292.52"/>
+      <rect class="cls-1" x="190.82" y="135.03" width="305.89" height="33.14" transform="translate(-31.94 149.08) rotate(-23.41)"/>
+    </g>
+  </g>
+</svg>
